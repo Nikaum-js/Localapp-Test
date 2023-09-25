@@ -1,0 +1,5 @@
+A primeira parte do teste consiste em mudar a forma de exibição da listagem de formato em lista para listagem de formato em blocos como a imagem em anexo (parte1.png) clicando no botão de menu localizado à direita, após o texto.
+
+O ícone precisa mudar conforme o tipo de listagem junto com os produtos.
+
+Ignorar menus superior (barra azul, barra de pesquisa e categorias) e inferior (menu rodapé).
